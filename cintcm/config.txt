@@ -1,0 +1,56 @@
+[STD_DISEASE]
+first_id = 1
+last_id = 978
+url_prefix = http://cowork.cintcm.com/engine/detail?record=1&primarykeyvalue=ID%3D
+url_suffix = &channelid=18437
+
+[STD_SYMPTOM]
+first_id = 1
+last_id = 812
+url_prefix = http://cowork.cintcm.com/engine/detail?record=1&primarykeyvalue=ID%3D
+url_suffix = &channelid=52197
+
+[STD_TREATMENT]
+first_id = 1
+last_id = 1005
+url_prefix = http://cowork.cintcm.com/engine/detail?record=1&primarykeyvalue=ID%3D
+url_suffix = &channelid=56462
+
+[RECIPE]
+first_id = 3001
+last_id = 4224
+url_prefix = http://cowork.cintcm.com/engine/outline?page=
+url_suffix = &channelid=41919
+
+[MEDICINE]
+first_id = 1
+last_id = 409
+url_prefix = http://cowork.cintcm.com/engine/outline?page=
+url_suffix = &channelid=14824
+path = download/medicine/
+
+[MEDICINE_PAIR]
+first_id = 1
+last_id = 46
+url_prefix = http://cowork.cintcm.com/engine/outline?page=
+url_suffix = &channelid=57693
+path = download/medicine_pair/
+
+[TREATMENT]
+first_id = 1
+last_id = 189
+url_prefix = http://cowork.cintcm.com/engine/outline?page=
+url_suffix = &channelid=18888
+path = download/treatment/
+
+[STD_SYMPTOM_CATEGORY]
+first_id = 1
+last_id = 1888
+url_prefix = http://cowork.cintcm.com/engine/detail?record=1&primarykeyvalue=ID%3D
+url_suffix = &channelid=44609
+
+[STD_DISEASE_CATEGORY]
+first_id = 1
+last_id = 683
+url_prefix = http://cowork.cintcm.com/engine/detail?record=1&primarykeyvalue=ID%3D
+url_suffix = &channelid=40630
